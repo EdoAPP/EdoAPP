@@ -15,12 +15,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdoAPP&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-<!--
-**EdoAPP/EdoAPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -30,4 +25,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdoAPP&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoAPP&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+<!--
+**EdoAPP/EdoAPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
