@@ -27,6 +27,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - ⚡ Fun fact: ...
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 📈 **My GitHub Stats:**
 
