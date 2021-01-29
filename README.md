@@ -13,7 +13,7 @@ I am a full-stack software engineer. I love programming, working out and traveli
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="450" height="300" />
 
 **Talking about Personal Stuffs:**
 
@@ -25,6 +25,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 
 📈 **My GitHub Stats:**
 
