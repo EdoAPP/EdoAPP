@@ -26,8 +26,6 @@ As a software engineer, I love building things, translate ideas into products th
 - 📝[Resume](https://drive.google.com/file/d/18Z5-RLX2yxXbB8dehv8RLNx1iBHhfW3M/view?usp=sharing)
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 📈 **My GitHub Stats:**
 
