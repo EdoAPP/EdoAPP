@@ -20,7 +20,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🔭 I’m currently working on [DevBase](https://devbase.us/)
 - 🌱 I’m currently learning how to draw
 - 👨🏻‍💻 Also improving my Algorithms and Data Structure skills.
-- 📚 I'm very into in self-development stuff. Trying to build good habits and seeking mental clarity.
+- 📚 I'm very into self-development stuff. Trying to build good habits and seeking mental clarity.
 - 💬 Ask me about anything and I'd be happy to lend a hand!
 - 📫 How to reach me: eduardoapp.97@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/18Z5-RLX2yxXbB8dehv8RLNx1iBHhfW3M/view?usp=sharing)
