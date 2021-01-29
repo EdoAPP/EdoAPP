@@ -13,7 +13,7 @@ I am a full-stack software engineer. I love programming, working out and traveli
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="450" height="316" />
 
 **Talking about Personal Stuffs:**
 
@@ -27,11 +27,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - ⚡ Fun fact: ...
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EdoAPP&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false&theme=dracula&card_width=50%" />
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoAPP&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula&"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EdoAPP&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false&theme=dracula&card_width=50%" />
+  <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoAPP&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula&"/>
 </p>
 
