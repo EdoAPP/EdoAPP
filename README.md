@@ -26,7 +26,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<p>&nbsp;</p>
 
 📈 **My GitHub Stats:**
 
@@ -35,8 +35,3 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoAPP&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
-<!--
-**EdoAPP/EdoAPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
