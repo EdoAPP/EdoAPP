@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edoapp/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/EdoAP)
-[![Website Badge](https://img.shields.io/badge/Resume-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1gLePkeG1WkrPsEE6FPNkp7m_CwKQpG_c/view?usp=sharing)
+[![Website Badge](https://img.shields.io/badge/Resume-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://drive.google.com/drive/folders/1NrDMAs1nzo7sI8FDFTct5v7av37_rQ9g?usp=sharing)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym) -->
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)  --> 
@@ -23,7 +23,7 @@ As a software engineer, I love building things, translate ideas into products th
 - 📚 I'm very into self-development stuff. Trying to build good habits and seeking mental clarity.
 - 💬 Ask me about anything and I'd be happy to lend a hand!
 - 📫 How to reach me: eduardoapp.97@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1gLePkeG1WkrPsEE6FPNkp7m_CwKQpG_c/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/drive/folders/1NrDMAs1nzo7sI8FDFTct5v7av37_rQ9g?usp=sharing)
 
 <p>&nbsp;</p>
 
