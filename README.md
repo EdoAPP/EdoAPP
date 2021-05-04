@@ -14,7 +14,7 @@ As a software engineer, I love building things, translate ideas into products th
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on [DevBase](https://devbase.us/)
+- 🔭 I’m currently working at building something cool
 - 🌱 I’m currently learning how to draw
 - 👨🏻‍💻 Also improving my Algorithms and Data Structure skills.
 - 📚 I'm very into self-development stuff. Trying to build good habits and seeking mental clarity.
