@@ -27,7 +27,7 @@ As a software engineer, I love building things, translate ideas into products th
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EdoAPP&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EdoAPP&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
   <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoAPP&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula&"/>
 </p>
 
