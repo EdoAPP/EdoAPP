@@ -4,9 +4,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/EdoAP)
 [![Website Badge](https://img.shields.io/badge/Resume-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://drive.google.com/drive/folders/1NrDMAs1nzo7sI8FDFTct5v7av37_rQ9g?usp=sharing)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=EdoAPP.EdoAPP)
+<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=EdoAPP.EdoAPP) -->
 
-I am a full-stack software engineer. I love programming, working out and self-growth stuff. Currently grinding to become an artist.
+<!-- I am a full-stack software engineer. I love programming, working out and self-growth stuff. Currently grinding to become an artist.
 
 As a software engineer, I love building things, translate ideas into products that make a change. That's been my motivation through this software engineering journey.
 
@@ -29,5 +29,5 @@ As a software engineer, I love building things, translate ideas into products th
 <p>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EdoAPP&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
   <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoAPP&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula&"/>
-</p>
+</p> -->
 
