@@ -1,8 +1,6 @@
 ### Hi there, I'm <a href="https://www.linkedin.com/in/edoapp/" target="_blank">Eduardo Pacheco</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edoapp/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/EdoAP)
-[![Website Badge](https://img.shields.io/badge/Resume-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://drive.google.com/drive/folders/1NrDMAs1nzo7sI8FDFTct5v7av37_rQ9g?usp=sharing)
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=EdoAPP.EdoAPP) -->
 
